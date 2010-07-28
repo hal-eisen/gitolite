@@ -458,7 +458,7 @@ Easy!  Just use ssh to give the "info" command to the gitolite server:
 To understand what these symbols mean, please see doc/report-output.mkd.  The
 administrator can also say things like:
 
-    ssh gitolite info u1 u2 u3
+    ssh git@server info u1 u2 u3
 
 to get this info for other user(s).
 

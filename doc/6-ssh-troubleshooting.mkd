@@ -183,7 +183,7 @@ Otherwise, run these checks:
     overwrite the `id_rsa` keypair with the `sitaram` keypair, or something
     equally weird.
 
-2.  `ssh gitolite info` should print some [gitolite version and access
+2.  `ssh git@server info` should print some [gitolite version and access
     info][myrights].  If you get the output of the GNU info command instead,
     you probably reused your `id_rsa` keypair as your `sitaram` keypair, or
     overwrote the `sitaram` keypair with the `id_rsa` keypair.

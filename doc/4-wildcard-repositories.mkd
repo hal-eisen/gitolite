@@ -213,7 +213,7 @@ file:
 
 Push the config, then try
 
-    ssh gitolite expand
+    ssh git@server expand
 
 <a name="other_issues_and_discussion"></a>
 
